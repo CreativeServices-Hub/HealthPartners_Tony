@@ -90,14 +90,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap10();
-	this.instance.setTransform(-196,-46,0.2986,0.2986);
+	this.instance.setTransform(-194,-45,0.288,0.288);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-196,-46,169.3,39.7);
+p.nominalBounds = new cjs.Rectangle(-194,-45,163.3,38.3);
 
 
 (lib.Symbol4 = function(mode,startPosition,loop,reversed) {
@@ -136,14 +136,14 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_3
 	this.instance = new lib.Bitmap14();
-	this.instance.setTransform(-202,-26,0.2444,0.2444);
+	this.instance.setTransform(-202,-28,0.2444,0.2444);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-202,-26,359,41.8);
+p.nominalBounds = new cjs.Rectangle(-202,-28,359,41.8);
 
 
 (lib.Symbol2 = function(mode,startPosition,loop,reversed) {
@@ -214,10 +214,10 @@ if (reversed == null) { reversed = false; }
 
 	// Symbol_1
 	this.instance_4 = new lib.Bitmap8();
-	this.instance_4.setTransform(892,337,0.2137,0.2137);
+	this.instance_4.setTransform(899,340,0.2004,0.2004);
 
 	this.instance_5 = new lib.Bitmap7();
-	this.instance_5.setTransform(40,270,0.2179,0.2179);
+	this.instance_5.setTransform(55,273,0.2094,0.2094);
 
 	this.instance_6 = new lib._1280x418BG();
 	this.instance_6.setTransform(-14,-4,1.1394,1.1394);
@@ -227,7 +227,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(626,205,668,242.60000000000002);
+p.nominalBounds = new cjs.Rectangle(626,205,668,238.7);
 // library properties:
 lib.properties = {
 	id: '99F447CAF9434DCCA984A5449AB2875C',
